@@ -13,7 +13,7 @@
 - [Writing ILP Applications](#writing-ilp-applications)
   - [Making an SPSP Payment](#making-an-spsp-payment)
   - [How Does "ilp-plugin" Work?](#how-does-ilp-plugin-work)
-- [Advanced Usage](#usage)
+- [Advanced Usage](#advanced-usage)
   - [Command-Line Options](#command-line-options)
   - [Remote Deploy](#remote-deploy)
   - [Reconciliation](#reconciliation)
